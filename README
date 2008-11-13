@@ -1,0 +1,5 @@
+This is a simple prototype of porting the YUI Custom Event model to PHP.
+
+This example supports scope changing but doesn't yet support stopping or bubbling.
+
+When I have time, I'll revisit it and finish it up.
